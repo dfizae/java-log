@@ -12,10 +12,11 @@ Java 학습 기록 프로젝트입니다.
 
 ## 📖 챕터 목록, 공부 기간 기록
 
-| 챕터 |    제목    | 업로드 날짜     |
-|:---|:--------:|:-----------|
-| 1장 | Java 기본  | 2025-12-25 |
-| 2장 | Java의 변수 | 2025-12-29  |
+| 챕터 |               제목               | 업로드 날짜     |
+|:---|:------------------------------:|:-----------|
+| 1장 |            Java 기본             | 2025-12-25 |
+| 2장 |            Java의 변수            | 2025-12-29 |
+| 3장 | Java 3장: Java의 변수 - 2(기본형 형변환) | 2026-01-10 |
 
 
 ---
@@ -44,6 +45,8 @@ REACT-TS-LOG/
 ### 📘 Velog
 - [Java 1장 : java의 기본](https://velog.io/@dfizae/Java-1%EC%9E%A5-Java%EC%9D%98-%EA%B8%B0%EB%B3%B8)
 - [Java 2장 : Java의 변수 - 1](https://velog.io/@dfizae/Java-2%EC%9E%A5-Java%EC%9D%98-%EB%B3%80%EC%88%98)
+- [Java 3장 : Java의 변수 - 2](https://velog.io/@dfizae/Java-2%EC%9E%A5-Java%EC%9D%98-%EB%B3%80%EC%88%98)
+- [](https://velog.io/@dfizae/Java-3장-Java의-변수-2)
 
 ---
 
